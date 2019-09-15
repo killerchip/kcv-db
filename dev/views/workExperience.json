@@ -1,1 +1,1 @@
-{"workExperience":{"index":[{"_id":0,"position":"Developer","company":"Acme Industries","dateFrom":{"year":2012,"month":2},"dateTo":{"year":2013,"month":12}},{"_id":1,"position":"Cook","company":"Acme Restaurant","dateFrom":{"year":2012,"month":2},"dateTo":{"year":2013,"month":12}}]}}
+{"workExperience":[{"_id":0,"position":"Developer","company":"Acme Industries","dateFrom":{"year":2012,"month":2},"dateTo":{"year":2013,"month":12}},{"_id":1,"position":"Cook","company":"Acme Restaurant","dateFrom":{"year":2012,"month":2},"dateTo":{"year":2013,"month":12}}]}
